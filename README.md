@@ -1,43 +1,43 @@
 
-     #ljlsjf
+# makeREADME
     
     
-    ## DESCRIPTION
+## Description
     
-    jlfsfjls
+To create a README from Node.js. This has taught me to create a file from scratch via the command line
     
-    ## Table of Contents
+## Table of Contents
     
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Tests](#tests)
-    - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
     
-    ## Installation
+## Installation
     
-    fsjlfjs
+ Open Git Hub, Clone the repo, use node install to install the info needed to run node index.js, write node index.js in the terminal to display the list of questions
     
-    ## Usage
+ ## Usage
     
-    sjlfjslf
+This project creates a README right after the user is done answering questions from the input. Below is an example of how the README will be generated
     
-    ## License [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-    
-    
-    The license included for this project is under ISC
+## License [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
     
     
-    ## Contribute [![Contributions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/jlsjfls/jflsj/issues)
-    
-    Please click on the badge to report any issues if they exist
+The license included for this project is under ISC
     
     
-    ## Tests
+## Contribute [![Contributions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/odingol/06-hw-weather-dashboard/issues)
     
-    fjlsjd
+Please click on the badge to report any issues if they exist
     
     
-    ## Questions
+## Tests
     
-    * Contact me: [My Personal Github](https://github.com/jlsjfls) [Personal E-mail](jflsjf)
+None
+    
+    
+## Questions
+    
+* Contact me: [My Personal Github](https://github.com/odingol) [Personal E-mail](lodingo@yahoo.com)

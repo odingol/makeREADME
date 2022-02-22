@@ -21,53 +21,57 @@
 
 function generateMarkdown({title, description, installation, usage, license, githubName, githubRepo, tests, eMail}) {
     return`
-     #${title}
+# ${title}
     
     
-    ## DESCRIPTION
+## Description
     
-    ${description}
+${description}
     
-    ## Table of Contents
+## Table of Contents
     
-    - [Installation](#installation)
-    - [Usage](#usage)
-    - [License](#license)
-    - [Tests](#tests)
-    - [Questions](#questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
     
-    ## Installation
+## Installation
     
-    ${installation}
+${installation}
     
-    ## Usage
+ ## Usage
     
-    ${usage}
+${usage}
     
-    ## License [![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})
-    
-    
-    The license included for this project is under ${license}
+## License [![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)](https://opensource.org/licenses/${license})
     
     
-    ## Contribute [![Contributions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/${githubName}/${githubRepo}/issues)
-    
-    Please click on the badge to report any issues if they exist
+The license included for this project is under ${license}
     
     
-    ## Tests
+## Contribute [![Contributions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/${githubName}/${githubRepo}/issues)
     
-    ${tests}
-    
-    
-    ## Questions
-    
-    * Contact me: [My Personal Github](https://github.com/${githubName}) [Personal E-mail](${eMail})`
+Please click on the badge to report any issues if they exist
     
     
-    };
+## Tests
+    
+${tests}
+    
+-------
+
+## Questions
+    
+Contact me: 
+
+*[Github Profile](https://github.com/${githubName}) 
+*[E-mail](${eMail})`
+    
+    
+};
     
     
     
-    module.exports = generateMarkdown;
+module.exports = generateMarkdown;
     
