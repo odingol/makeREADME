@@ -11,6 +11,7 @@ To create a README from Node.js. This has taught me to create a file from scratc
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Contribute](#contribute)
 - [Tests](#tests)
 - [Questions](#questions)
     
@@ -20,7 +21,7 @@ To create a README from Node.js. This has taught me to create a file from scratc
     
  ## Usage
     
-This project creates a README right after the user is done answering questions from the input. Below is an example of how the README will be generated
+his project creates a README right after the user is done answering questions from the input. Below is an example of how the README will be generated
     
 ## License [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
     
@@ -28,7 +29,7 @@ This project creates a README right after the user is done answering questions f
 The license included for this project is under ISC
     
     
-## Contribute [![Contributions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/odingol/06-hw-weather-dashboard/issues)
+## Contribute [![Contribution: Suggestions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/odingol/makeREADME/issues)
     
 Please click on the badge to report any issues if they exist
     
@@ -37,7 +38,11 @@ Please click on the badge to report any issues if they exist
     
 None
     
-    
+-------
+
 ## Questions
     
-* Contact me: [My Personal Github](https://github.com/odingol) [Personal E-mail](lodingo@yahoo.com)
+Contact me: 
+
+*[Github Profile](https://github.com/odingol) 
+*[E-mail](example@hotmail.com)

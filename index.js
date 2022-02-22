@@ -37,7 +37,7 @@ const promptMessages = () => {
         type: "list",
         name: "license",
         choices:["ISC","MIT"],
-        message: "Are there any license(s) do you want to include?"
+        message: "What license do you want to include?"
     },
     {  
         type: "input",

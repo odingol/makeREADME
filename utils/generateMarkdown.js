@@ -33,6 +33,7 @@ ${description}
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Contribute](#contribute)
 - [Tests](#tests)
 - [Questions](#questions)
     
@@ -50,7 +51,7 @@ ${usage}
 The license included for this project is under ${license}
     
     
-## Contribute [![Contributions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/${githubName}/${githubRepo}/issues)
+## Contribute [![Contribution: Suggestions](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://github.com/${githubName}/${githubRepo}/issues)
     
 Please click on the badge to report any issues if they exist
     
@@ -65,8 +66,8 @@ ${tests}
     
 Contact me: 
 
-*[Github Profile](https://github.com/${githubName}) 
-*[E-mail](${eMail})`
+[Github Profile](https://github.com/${githubName}) 
+[E-mail](${eMail})`
     
     
 };
