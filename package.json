@@ -1,0 +1,22 @@
+{
+  "name": "makereadme",
+  "version": "1.0.0",
+  "description": "Creating a README from terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odingol/makeREADME.git"
+  },
+  "author": "Lamor Odingo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odingol/makeREADME/issues"
+  },
+  "homepage": "https://github.com/odingol/makeREADME#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
