@@ -1,4 +1,3 @@
-
 # makeREADME
 ## Description
 
@@ -19,7 +18,7 @@ SO THAT I can create a professional README for all of my new projects
     
 ## Installation
     
-1) Go to my Github and clone this repo 
+1) Go to my Github and clone this repo
 
 ![Git Clone Navigation](./images/git-clone-navigation.jpg)
 
