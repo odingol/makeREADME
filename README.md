@@ -24,13 +24,13 @@ SO THAT I can create a professional README for all of my new projects
 
 <br>
 
-2) Once downloaded go to the code editor and copy this code and paste inside the terminal
+2) Once downloaded, copy the code "npm install" and paste inside the terminal of your code editor
 
 ```bash
-node install
+npm install
 ```
 
-3) Once step 3 is completed, run "node index.js" inside the terminal to begin answering the prompt questions for the README set up
+3) Once step 2 is completed, copy the code "node index.js" and paste inside the terminal to begin answering the prompt questions for the README set up
 
 ```bash
 node index.js
@@ -40,7 +40,7 @@ node index.js
     
  ## Usage
 <br>
-This makeREADME app is designed to create a professional README file from the user's input. A README file is created only when the user finishes answering all of the prompt questions and they are free to edit whatever format they wish. 
+This makeREADME app is designed to create a professional README file from the user's input. A README file is created only when the user finishes answering all of the prompt questions. The user is also given the freedom to style their README in whatever format they wish. 
 
 
 <br>Here is an example of the use of the application:
