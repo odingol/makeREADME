@@ -21,7 +21,7 @@ SO THAT I can create a professional README for all of my new projects
     
 1) Go to my Github and clone this repo 
 
-![Clone makeREADME Repo]()
+![Git Clone Navigation](./images/git-clone-navigation.jpg)
 
 3) Once downloaded go to the code editor and copy this code and paste inside the terminal
 
@@ -42,6 +42,8 @@ node index.js
 This makeREADME app is designed to create a professional README file from the user's input. A README file is created only when the user finishes answering all of the prompt questions and they are free to edit whatever format they wish.
 
 Here is an example of the use of the application:
+
+![]
     
 ## License 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
