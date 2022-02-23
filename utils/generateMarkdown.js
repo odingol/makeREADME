@@ -68,7 +68,7 @@ ${tests}
 Contact me: 
 
 - [Github Profile](https://github.com/${githubName}) 
-- [E-mail](${eMail})`
+- [E-mail](mailto:${eMail})`
     
     
 };

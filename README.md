@@ -23,7 +23,7 @@ SO THAT I can create a professional README for all of my new projects
 
 ![Clone makeREADME Repo]()
 
-3) Once downloaded go to the code editor and copy this code inside the terminal
+3) Once downloaded go to the code editor and copy this code and paste inside the terminal
 
 ```bash
 node install
@@ -66,4 +66,4 @@ There are no tests included for this application
 Contact me: 
 
 - [Github Profile](https://github.com/odingol) 
-- [E-mail](lodingo@yahoo.com)
+- [E-mail](mailto:lodingo@yahoo.com)
