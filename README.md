@@ -23,19 +23,21 @@ SO THAT I can create a professional README for all of my new projects
 
 ![Git Clone Navigation](./images/git-clone-navigation.jpg)
 
-3) Once downloaded go to the code editor and copy this code and paste inside the terminal
+<br>
+
+2) Once downloaded go to the code editor and copy this code and paste inside the terminal
 
 ```bash
 node install
 ```
 
-4) Once step 3 is completed, run "node index.js" inside the terminal to begin answering the prompt questions for the README set up
+3) Once step 3 is completed, run "node index.js" inside the terminal to begin answering the prompt questions for the README set up
 
 ```bash
 node index.js
 ```
 
-5) After all questions are completed, the README.md file is instantly created in the same folder.
+4) After all questions are completed, the README.md file is instantly created in the same folder.
     
  ## Usage
     
