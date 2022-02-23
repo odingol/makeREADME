@@ -52,7 +52,7 @@ const promptMessages = () => {
     {  
         type: "input",
         name: "tests",
-        message: "What tests do you want to run on your application? Provide examples on how to run them?"
+        message: "What tests do you want to run on your application? Provide examples on how to run them"
     },
     {  
         type: "input",
