@@ -39,9 +39,11 @@ node index.js
 4) After all questions are completed, the README.md file is instantly created in the same folder.
     
  ## Usage
-<br>
-This makeREADME app is designed to create a professional README file from the user's input. A README file is created only when the user finishes answering all of the prompt questions. The user is also given the freedom to style their README in whatever format they wish. 
+ <br>
 
+This makeREADME app is designed to create a professional README file from the user's input. A README file is created only when the user finishes answering all of the prompt questions. The user is also given the freedom to style their README in whatever format they wish.
+
+[CLICK HERE](https://youtu.be/6QSYwW6V588) if you would like to follow along on YouTube.
 
 <br>Here is an example of the use of the application:
 
